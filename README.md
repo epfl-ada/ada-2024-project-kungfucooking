@@ -38,9 +38,13 @@ Through a comprehensive analysis, we observed that videos related to Trump in th
 
 ## Timeline
 15.11.2024 Data Handling and Preprocessing & Initial Exploratory Data Analysis
+
 30.11.2024 Task1-5 Implementation and Preliminary Analysis
+
 07.12.2024 Compile Final Analysis
+
 14.12.2024 Report Writing
+
 20.12.2024 Milestone 3 Deadline
 
 ## Team Organization
