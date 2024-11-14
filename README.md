@@ -37,15 +37,15 @@ Lastly, we will select a group of channels with similar characteristics and anal
 Through a comprehensive analysis, we observed that videos related to Trump in the entertainment category tend to have more views and likes compared to those in the news and politics category. We aim to explore whether videos that include conspiracy theory keywords in their titles or tags and belong to the entertainment category can receive more likes. First, we plan to calculate the propensity score using logistic regression, balancing the data (such as view count, video duration, channel subscriptions, etc.) by matching the propensity scores. We will observe the results under the combination of the presence of keywords and belonging to the entertainment category, visually presenting the data and validating it through t-tests. Additionally, we plan to conduct an in-depth analysis of specific cases (such as studying only a few specific channels) to observe how the two factors jointly influence the outcomes.
 
 ## Timeline
-15.11.2024 Data Handling and Preprocessing & Initial Exploratory Data Analysis
+- [x] 15.11.2024 Data Handling and Preprocessing & Initial Exploratory Data Analysis
 
-30.11.2024 Task1-5 Implementation and Preliminary Analysis
+- [ ] 30.11.2024 Task1-5 Implementation and Preliminary Analysis
 
-07.12.2024 Compile Final Analysis
+- [ ] 07.12.2024 Compile Final Analysis
 
-14.12.2024 Report Writing
+- [ ] 14.12.2024 Report Writing
 
-20.12.2024 Milestone 3 Deadline
+- [ ] 20.12.2024 Milestone 3 Deadline
 
 ## Team Organization
 - Yuheng: Task 1
