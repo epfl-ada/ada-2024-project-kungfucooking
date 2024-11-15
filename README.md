@@ -1,3 +1,19 @@
+## Dataset Information for Milestone 2
+
+In Milestone 2, we use the **YouNiverse** dataset. Due to the large size of these files, they are not included in this repository. However, for accurate execution of the analysis, they should be placed in the main folder of this repository, at the same level as the Jupyter Notebook files.
+
+- `df_channels_en.tsv`
+- `df_timeseries_en.tsv.gz`
+- `yt_metadata_en.jsonl.gz`
+
+The `yt_metadata_en.jsonl.gz` file is processed through `data_preprocess.py`, resulting in a filtered dataset used in this milestone, named `yt_metadata_filtered_"trump ".jsonl`.
+
+The **YouNiverse** dataset provides a highly diverse and rich collection of data, offering extensive possibilities for in-depth analysis and insights. Its comprehensive nature allows for a wide range of analytical approaches and interpretations, making it ideal for advanced exploration.
+
+We also have the necessary hardware and software resources to effectively process and interpret this dataset. Our setup ensures efficient handling of large-scale data, allowing us to leverage the full potential of the YouNiverse dataset in our analysis.
+
+---
+
 # Why Donald Trump Embraces Conspiracy Theories: A Deep Dive into YouTube’s Role in Amplifying Controversy and Captivating Audiences
 
 ---
