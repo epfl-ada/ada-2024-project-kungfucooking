@@ -1,0 +1,37 @@
+{
+    "conspiracy_theories": [
+      {
+        "name": "Deep State",
+        "description": "Refers to a hidden powerful faction within the government allegedly working to undermine Trump and his supporters."
+      },
+      {
+        "name": "Election Fraud",
+        "description": "Claims of widespread election fraud, especially in the 2020 presidential election, focusing on alleged issues with mail-in ballots."
+      },
+      {
+        "name": "QAnon",
+        "description": "While not explicitly endorsed, Trump has shown indirect support for followers of QAnon, a conspiracy about a deep-rooted cabal involved in child trafficking and satanic rituals."
+      },
+      {
+        "name": "Wuhan Virus",
+        "description": "Refers to claims that COVID-19 originated as an intentional act from China, possibly from a lab leak."
+      },
+      {
+        "name": "Vaccine Skepticism",
+        "description": "Suggestions that COVID-19 vaccines might not be safe or effective, fostering doubt over vaccination."
+      },
+      {
+        "name": "Missing Emails",
+        "description": "Refers to the 2016 scandal involving Hillary Clinton’s deleted emails, which Trump frequently highlighted."
+      },
+      {
+        "name": "Biden Family Scandal",
+        "description": "Claims of corruption within the Biden family, particularly involving Hunter Biden’s business dealings and alleged exploitation of Biden’s influence."
+      },
+      {
+        "name": "Climate Change Hoax",
+        "description": "Skepticism toward climate change, suggesting it's a 'hoax' promoted by global elites for profit."
+      }
+    ]
+  }
+  
